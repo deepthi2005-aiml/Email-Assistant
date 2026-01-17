@@ -1,4 +1,3 @@
-
 export enum EmailTone {
   PROFESSIONAL = 'Professional',
   CASUAL = 'Casual',
