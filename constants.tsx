@@ -1,4 +1,3 @@
-
 import { EmailTemplate } from "./types";
 
 export const EMAIL_TEMPLATES: EmailTemplate[] = [
