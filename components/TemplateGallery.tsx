@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { EMAIL_TEMPLATES } from '../constants';
 import { EmailTemplate } from '../types';
